@@ -1,0 +1,19 @@
+//VARIABLES DEL TEMA
+// Fuentes
+	@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+	@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300);
+
+// PALETAS DE COLORES
+$COLOR1 : #5B716A; // VERDE
+$color2 : #E7D06B; // AMARILLO
+$color3 : #E7D06B; // GRIS (textos)
+
+//ESTILOS BASE
+$body--background : #fff;
+$body--font-family :'open Sans', sans-serif;
+$body--color :#333;
+
+//ESTILOS DE ENCABEZADOS
+$header--font-family : 'Roboto Condensed', sans-serif;
+$header--font-weight : bold ;
+$header--color :#222;
